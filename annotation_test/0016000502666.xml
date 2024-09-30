@@ -1,0 +1,26 @@
+<annotation>
+	<folder>single_test</folder>
+	<filename>0016000502666.jpg</filename>
+	<path>C:\Users\mrlab\Downloads\13586402\barcode_bb\barcode_bb\single_test\0016000502666.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>267</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>barcode</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>278</xmin>
+			<ymin>123</ymin>
+			<xmax>354</xmax>
+			<ymax>190</ymax>
+		</bndbox>
+	</object>
+</annotation>
